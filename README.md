@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Dennis4507
-- 👀 I’m interested in ...Cloud Computing
-- 🌱 I’m currently learning ...Cloud Computing and Dev ops
-- 💞️ I’m looking to collaborate on ... Cloud Computing & Dev Ops Projects
+- 💞️ I’m looking for projects and to collaborate on ... Cloud Computing & Dev Ops Projects
 - 📫 How to reach me ... email me at riungudenis63@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
